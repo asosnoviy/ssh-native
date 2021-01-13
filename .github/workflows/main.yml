@@ -54,3 +54,4 @@ jobs:
           name: linux-x64
           path: ${{ github.workspace }}/build/lib/libssh_native.so
         if: runner.os == 'Linux'
+
